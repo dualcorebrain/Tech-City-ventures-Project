@@ -1,5 +1,5 @@
 # Tech-City-ventures-Project
-<h1> Simple list app made with ReactJS) </h1>
+<h1> Simple list app made with ReactJS </h1>
 <br>
 <h2> Background Information</h2>
 <ul>
