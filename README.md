@@ -32,6 +32,7 @@
 
 
 <h2> Everything that helped me </h2>
+
 <ul>	
 	<li>https://stackoverflow.com/questions/10323392/in-javascript-jquery-what-does-e-mean</li>
 	<li>https://www.youtube.com/watch?v=sBws8MSXN7A</li>
@@ -47,5 +48,7 @@
 	
 	
 </ul>
+
+
 
 <h2> Thank You for providing the oppurtunity which kicked me into the gear of learning new things which I would never have otherwise, I am more than appreciative regardless of the outcome </h2>
