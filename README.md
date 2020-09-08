@@ -9,6 +9,7 @@
 	<li>No prior ReactJS experience</li>
 	<li>Some experience in CSS</li>
 	<li>Minimal experience in Laravel</li>
+	<li>Rather than choosing something more sophisticated I chose the simple listing idea that was given in the Tech-City-Venture task and only focused on making that for the entire time</li>
 	<li>Miss Gajjar did say this should take me around 4 hours however I dont have much Javascript or ReactJS knowledge</li>
 	<li>Took me from 4pm yesterday to 3pm today and had to work overnight to complete this on time majority of the time learning</li>
 	<li>Never used MongoDB, unfortunately I wanted to pass the strings over as simple CRUD function however I wasnt able to finish the tutorials on time given 24 hours</li>
