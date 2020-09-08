@@ -33,6 +33,7 @@
 
 <h2> Everything that helped me </h2>
 
+<br>
 <ul>	
 	<li>https://stackoverflow.com/questions/10323392/in-javascript-jquery-what-does-e-mean</li>
 	<li>https://www.youtube.com/watch?v=sBws8MSXN7A</li>
